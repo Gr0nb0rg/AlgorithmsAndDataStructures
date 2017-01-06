@@ -1,0 +1,11 @@
+﻿  Bucket.cpp
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\ludvig\documents\visual studio 2015\projects\modifiedbucketsort\modifiedbucketsort\bucket.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  ModifiedBucketSort.vcxproj -> c:\users\ludvig\documents\visual studio 2015\Projects\ModifiedBucketSort\Debug\ModifiedBucketSort.exe
+  ModifiedBucketSort.vcxproj -> c:\users\ludvig\documents\visual studio 2015\Projects\ModifiedBucketSort\Debug\ModifiedBucketSort.pdb (Partial PDB)

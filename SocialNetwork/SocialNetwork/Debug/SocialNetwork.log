@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+c:\users\ludvig\documents\visual studio 2015\projects\socialnetwork\socialnetwork\graph.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  SocialNetwork.vcxproj -> c:\users\ludvig\documents\visual studio 2015\Projects\SocialNetwork\Debug\SocialNetwork.exe
+  SocialNetwork.vcxproj -> c:\users\ludvig\documents\visual studio 2015\Projects\SocialNetwork\Debug\SocialNetwork.pdb (Partial PDB)
